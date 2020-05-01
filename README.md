@@ -9,6 +9,7 @@ Projeto envolto na unidade curricular **Laboratórios de Informática 2, UMINHO*
 
 **NOTA:**
 InterfacePrograma.c
+
 	- confirmaImpar
 	
 		-> fseek(jogo, -6, SEEK_END); para linux | fseek(jogo, -8, SEEK_END); para windows;
@@ -16,7 +17,6 @@ InterfacePrograma.c
 	- void coords_para_array 
 	
 		-> int contador = 141 para linux | 150 para windows;
-		
 		-> contador += 7 para linux | 8 para Windows;
 	
 	
